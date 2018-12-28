@@ -1,0 +1,5 @@
+projectKey=com.bt.java
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.bt.java
+ceTaskId=AWXq7zHK2QcihVzxYY4u
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWXq7zHK2QcihVzxYY4u
